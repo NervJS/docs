@@ -9,7 +9,7 @@
 创建一个目录，使用`npm`快速初始化
 
 ```bash
-$ mkdir my-project && npm init -y
+$ mkdir my-project && cd my-project && npm init -y
 ```
 
 ### 安装依赖
